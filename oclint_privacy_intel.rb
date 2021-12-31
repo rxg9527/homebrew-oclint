@@ -2,10 +2,10 @@
 #                https://rubydoc.brew.sh/Formula
 # PLEASE REMOVE ALL GENERATED COMMENTS BEFORE SUBMITTING YOUR PULL REQUEST!
 class OclintPrivacyIntel < Formula
-  desc "oclint version 21.05 support , privacy rule add"
+  desc "oclint version 21.10 support , privacy rule add"
   homepage "http://oclint.org"
-  url "https://github.com/rxg9527/oclint_privacy_intel/releases/download/v0.2/oclint_privacy_v0.2.zip"
-  sha256 "304098e150bc8e04c1de0cd2361bba958839c97f27f8f0b6469501a578834bc9"
+  url "https://github.com/rxg9527/oclint_privacy_intel/releases/download/v0.2/oclint_privacy_intel_v0.2.zip"
+  sha256 "3dd66ca071424937a0abc4a2ef57c92cae8ae4b1720d1b03796bd2fd3fe273a9"
   license ""
 
   # depends_on "cmake" => :build
